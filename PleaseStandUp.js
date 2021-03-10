@@ -22,3 +22,5 @@ class PleaseStandUp {
     }
 
 }
+
+ module.exports = PleaseStandUp;
