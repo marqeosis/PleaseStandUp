@@ -1,6 +1,11 @@
 # Please Stand Up
 
-Will the real Clean Coder please stand up?
+Will the real Clean Coder please stand up? You have two problems to complete, description below.
 
-You have two problems to complete. The first requires *only* psuedo code and the second requires psuedo code and a JavaScript solution. 
+## How Old?
+You should write *only* psuedo code
 
+## Conver Time
+You should write psuedo code and then a JavaScript solution. Each line of psuedo code should correspond with one line of JavaScript
+
+Happy Hacking
