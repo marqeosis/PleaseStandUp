@@ -5,7 +5,7 @@ Will the real Clean Coder please stand up? You have two problems to complete, de
 ## How Old?
 You should write *only* psuedo code
 
-## Conver Time
+## Convert Time
 You should write psuedo code and then a JavaScript solution. Each line of psuedo code should correspond with one line of JavaScript
 
 Happy Hacking
